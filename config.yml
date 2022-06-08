@@ -1,0 +1,93 @@
+baseURL: 'https://janfranchini.github.io'
+languageCode: 'en-US'
+title: 'Jan Franchini'
+theme: 'PaperMod'
+
+DefaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+
+params:
+  ShowReadingTime: true
+  ShowAllPagesInArchive: false
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archive/
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+    profileMode:
+      enabled: true
+      title: "Jan Franchini"
+      subtitle: "Computer Engineering student | Software Developer"
+      imageUrl: "/images/profile.png"
+      imageTitle: "Profile image"
+      imageWidth: 140
+      imageHeight: 140
+      buttons:
+        - name: "Posts"
+          url: "/en/archive"
+        - name: "Search"
+          url: "/en/search"
+        - name: "Tags"
+          url: "/en/tags"
+
+    socialIcons:
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/janfranchini/en/"
+      - name: "github"
+        url: "https://github.com/janfranchini"
+
+  it:
+    languageName: "Italiano"
+    languageAltTitle: Italiano
+    weight: 2
+    DateFormat: "2 January 2006"
+    profileMode:
+      subtitle: "La mia pagina personale"
+    menu:
+      main:
+        - name: Archivio
+          url: archive/
+          weight: 5
+        - name: Ricerca
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+    profileMode:
+      enabled: true
+      title: "Jan Franchini"
+      subtitle: "Studente di Ingegneria Informatica | Sviluppatore Software"
+      imageUrl: "/images/profile.png"
+      imageTitle: "Profile image"
+      imageWidth: 140
+      imageHeight: 140
+      buttons:
+        - name: "Posts"
+          url: "/it/archive"
+        - name: "Ricerca"
+          url: "/it/search"
+        - name: "Tags"
+          url: "/it/tags"
+
+    socialIcons:
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/janfranchini/"
+      - name: "github"
+        url: "https://github.com/janfranchini"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

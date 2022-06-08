@@ -1,0 +1,9 @@
+.not-found {
+    flex-direction: column;
+}
+
+.not-found-subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 0 15px;
+}
