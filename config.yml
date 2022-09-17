@@ -9,6 +9,9 @@ defaultContentLanguageInSubdir: true
 params:
   ShowReadingTime: true
   ShowAllPagesInArchive: false
+  analytics:
+    google:
+      SiteVerificationTag: R2xbN3DGzRfA2a81GRCS1UvyuLPv4oIbpxVUoOxmPJQ
 
 languages:
   en:
