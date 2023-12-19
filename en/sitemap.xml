@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://janfranchini.github.io/en/archive/</loc>
+    <loc>https://janrnc.github.io/en/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://janfranchini.github.io/it/archive/"
+                href="https://janrnc.github.io/it/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://janfranchini.github.io/en/archive/"
+                href="https://janrnc.github.io/en/archive/"
                 />
   </url><url>
-    <loc>https://janfranchini.github.io/en/categories/</loc>
+    <loc>https://janrnc.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://janfranchini.github.io/it/categories/"
+                href="https://janrnc.github.io/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://janfranchini.github.io/en/categories/"
+                href="https://janrnc.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://janfranchini.github.io/en/</loc>
+    <loc>https://janrnc.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://janfranchini.github.io/it/"
+                href="https://janrnc.github.io/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://janfranchini.github.io/en/"
+                href="https://janrnc.github.io/en/"
                 />
   </url><url>
-    <loc>https://janfranchini.github.io/en/search/</loc>
+    <loc>https://janrnc.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://janfranchini.github.io/it/search/"
+                href="https://janrnc.github.io/it/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://janfranchini.github.io/en/search/"
+                href="https://janrnc.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://janfranchini.github.io/en/tags/</loc>
+    <loc>https://janrnc.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://janfranchini.github.io/it/tags/"
+                href="https://janrnc.github.io/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://janfranchini.github.io/en/tags/"
+                href="https://janrnc.github.io/en/tags/"
                 />
   </url>
 </urlset>
