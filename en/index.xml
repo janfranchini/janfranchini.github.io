@@ -4,9 +4,8 @@
     <title>Jan Franchini</title>
     <link>https://janrnc.github.io/en/</link>
     <description>Recent content on Jan Franchini</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://janrnc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- 0.121.1</generator>
+    <language>en</language>
+    <atom:link href="https://janrnc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
