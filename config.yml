@@ -2,6 +2,8 @@ baseURL: 'https://janrnc.github.io'
 languageCode: 'en-US'
 title: 'Jan Franchini'
 theme: 'PaperMod'
+Home:
+  Permalink: 'https://janrnc.github.io'
 
 DefaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
@@ -12,6 +14,8 @@ params:
   analytics:
     google:
       SiteVerificationTag: R2xbN3DGzRfA2a81GRCS1UvyuLPv4oIbpxVUoOxmPJQ
+  footer:
+    hideCopyright: true
 
 languages:
   en:
